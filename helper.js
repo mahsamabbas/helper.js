@@ -1,7 +1,7 @@
 /*
     author: Mahsam Abbas                  
     Version: 1.0
-    URL: https://github.com/qualitybits/common.js
+    URL: https://github.com/mahsamabbas/helper.js
  */
 Array.prototype.max = function() {
     return Math.max.apply(null, this);
